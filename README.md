@@ -1,4 +1,4 @@
-<h1 align="centre">🎶 Aditya-Player 🎶</h1>
+<h1 align="centre">🎶 Akashplayer 🎶</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 
